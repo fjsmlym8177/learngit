@@ -5,6 +5,10 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+<<<<<<< HEAD
 test
 
 Git is a free software ...
+=======
+test2222
+>>>>>>> dev
